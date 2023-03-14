@@ -1,5 +1,7 @@
-**HangMan Java Project**</br>
-**Introduction**</br>
+<h1 align="center">
+  <b>Hangman Game</b>
+</h1>
+<b>Introduction</b> </br>
 This is a Java implementation of the classic game HangMan. The game is built using object-oriented programming concepts and can be run on any system with Java Runtime Environment (JRE) installed.
 
 **Features**</br>
@@ -28,6 +30,12 @@ To run the HangMan game on your system, you need to have Java Runtime Environmen
 3.If the letter is present in the word, the corresponding blanks will be replaced by the letter.</br>
 4.If the letter is not present in the word, the life of player gets decreased by one.</br>
 5.The game continues until the player guesses the word correctly or the hangman diagram is complete, indicating that the player has lost the game.</br>
+
+**Outputs -** </br>
+
+![image](https://user-images.githubusercontent.com/106467389/225135836-fe120c6a-e012-481a-905a-04cba433c450.png)</br>
+![image](https://user-images.githubusercontent.com/106467389/225136608-626d6d66-5fd5-4d17-a553-e3e2d196ec1d.png)</br>
+
 
 **Contribution**</br>
 Contributions to this project are always welcome. You can contribute by fixing bugs, adding new features, improving the existing code, and documentation. If you want to contribute, please fork the project and submit a pull request.
