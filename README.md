@@ -1,5 +1,5 @@
-##HangMan Java Project
-#Introduction
+**HangMan Java Project**
+**Introduction**
 This is a Java implementation of the classic game HangMan. The game is built using object-oriented programming concepts and can be run on any system with Java Runtime Environment (JRE) installed.
 
 #Features
